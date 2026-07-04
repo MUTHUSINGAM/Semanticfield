@@ -1,0 +1,6 @@
+{
+  "source": "Notion",
+  "title": "Engineering Wiki - System Architecture",
+  "classification": "confidential",
+  "content": "Singam Technologies Engineering Wiki. SemanticShield AI Architecture: FastAPI backend, React frontend, LanceDB vector store, MongoDB for audit logs. Production deployment on AWS EC2 ap-south-1. Internal only."
+}

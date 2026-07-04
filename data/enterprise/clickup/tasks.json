@@ -1,0 +1,14 @@
+[
+  {
+    "source": "ClickUp",
+    "title": "Sprint 42 - AI Gateway Tasks",
+    "classification": "confidential",
+    "content": "ClickUp Sprint 42 Tasks: 1) Implement DLP pipeline intercept (P0), 2) LanceDB ingestion service (P0), 3) RBAC dashboard (P1), 4) MCP Slack connector (P2). Release target: March 2026."
+  },
+  {
+    "source": "ClickUp",
+    "title": "2026 Product Roadmap",
+    "classification": "highly_confidential",
+    "content": "2026 Product Roadmap (CONFIDENTIAL): Q1 - Semantic similarity engine v1. Q2 - AI Security Gateway v2.0 public launch. Q3 - MCP connector expansion (Slack, Notion, Gmail, Drive). Q4 - Enterprise SSO and SOC2 audit completion."
+  }
+]

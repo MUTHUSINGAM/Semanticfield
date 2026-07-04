@@ -1,0 +1,10 @@
+COMPANY POLICY DOCUMENT — INTERNAL USE ONLY
+
+Singam Technologies Pvt Ltd
+Information Security Policy v3.2
+
+Section 1: All employee compensation data is classified as HIGHLY CONFIDENTIAL.
+Section 2: Financial forecasts and revenue projections must not be shared with AI tools without SemanticShield approval.
+Section 3: API keys, passwords, and authentication tokens must never appear in AI chat prompts or responses.
+
+Violation of this policy may result in immediate access revocation and disciplinary action.

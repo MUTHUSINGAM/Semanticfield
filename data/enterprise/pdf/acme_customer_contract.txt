@@ -1,0 +1,12 @@
+CUSTOMER CONTRACT — CONFIDENTIAL
+
+Parties: Singam Technologies Pvt Ltd and Acme Corporation
+
+Contract Value: ₹3,20,00,000 (Three Crore Twenty Lakhs) over 36 months
+Effective Date: January 1, 2026
+Renewal: Auto-renewal with 15% annual price uplift
+
+Scope: Enterprise AI-DLP platform license for 5,000 seats
+SLA: 99.9% uptime guarantee
+
+This contract is protected under NDA. Unauthorized disclosure is prohibited.

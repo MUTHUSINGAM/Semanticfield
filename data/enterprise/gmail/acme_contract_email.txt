@@ -1,0 +1,11 @@
+From: legal@singam.com
+To: partnerships@singam.com
+Subject: CONFIDENTIAL - Acme Corp Enterprise Contract
+
+The Acme Corp enterprise contract has been signed:
+- Contract Value: ₹3.2 Cr over 3 years
+- Annual Uplift: 15%
+- NDA: Active until 2029
+- Key Contact: James Wilson, VP Procurement at Acme Corp
+
+This email and attachments are legally privileged and confidential.

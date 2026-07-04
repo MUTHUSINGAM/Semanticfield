@@ -1,0 +1,20 @@
+[
+  {
+    "source": "Slack",
+    "title": "Finance Leadership Channel",
+    "classification": "highly_confidential",
+    "content": "#finance-leadership — CFO Arjun Mehta (Oct 2025): Singam Technologies runway extends to 2028 with current burn rate of ₹1.2 Cr/month. Q3 EBITDA target is 24%. Do not share externally."
+  },
+  {
+    "source": "Slack",
+    "title": "HR Confidential Thread",
+    "classification": "highly_confidential",
+    "content": "#hr-confidential — HR Director: Planned 8% workforce optimization in Engineering by Q1 2027. Not yet announced. All discussions under strict NDA."
+  },
+  {
+    "source": "Slack",
+    "title": "Product Sprint Discussion",
+    "classification": "confidential",
+    "content": "#product-squad — Sprint 42: AI Security Gateway v2.0 launch moved to Q2 2026. MCP connector for Notion delayed by 3 weeks due to API rate limits."
+  }
+]

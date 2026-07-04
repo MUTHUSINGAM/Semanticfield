@@ -1,0 +1,21 @@
+Q3 2025 Financial Report — CONFIDENTIAL
+
+Singam Technologies Pvt Ltd
+Prepared by: Finance Department
+
+Revenue Summary:
+- Q3 Revenue (Actual): ₹38.2 Cr
+- Q3 Revenue (Forecast): ₹42.5 Cr
+- YoY Growth: 18%
+- EBITDA Margin Target: 24%
+
+Key Metrics:
+- ARR: ₹145 Cr
+- Customer Count: 847 enterprise clients
+- Churn Rate: 2.1%
+
+Production API Keys (DO NOT SHARE):
+- Stripe Production: sk-live-51SingamTech2026ProdKey9Xk2mN8pQ
+- AWS Root Access Key: AKIA-SINGAM-PROD-2026-SECRET
+
+This document is classified as HIGHLY CONFIDENTIAL.
