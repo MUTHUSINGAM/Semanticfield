@@ -252,7 +252,6 @@ Deploy the backend to AWS EC2.
 Example deployment steps
 
 ```bash
-git pull
 
 pip install -r requirements.txt
 
