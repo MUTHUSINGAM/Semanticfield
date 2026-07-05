@@ -76,19 +76,6 @@ SemanticShield-AI/
 └── README.md
 ```
 
----
-
-# Installation
-
-## Clone Repository
-
-```bash
-git clone <repository-url>
-cd SemanticShield-AI
-```
-
----
-
 ## Backend Setup
 
 ```bash
