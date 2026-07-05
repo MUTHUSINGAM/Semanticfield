@@ -157,7 +157,7 @@ LANCEDB_PATH=
 
 ### Step 1
 
-Login using one of the demo accounts.
+Login using one of the accounts.(exiting credentials) 
 
 ---
 
